@@ -1,0 +1,10 @@
+C:\Users\Samsung\source\repos\FileReaders\FileParser\bin\Debug\netcoreapp2.2\FileParser.deps.json
+C:\Users\Samsung\source\repos\FileReaders\FileParser\bin\Debug\netcoreapp2.2\FileParser.runtimeconfig.json
+C:\Users\Samsung\source\repos\FileReaders\FileParser\bin\Debug\netcoreapp2.2\FileParser.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\FileReaders\FileParser\bin\Debug\netcoreapp2.2\FileParser.dll
+C:\Users\Samsung\source\repos\FileReaders\FileParser\bin\Debug\netcoreapp2.2\FileParser.pdb
+C:\Users\Samsung\source\repos\FileReaders\FileParser\obj\Debug\netcoreapp2.2\FileParser.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\FileReaders\FileParser\obj\Debug\netcoreapp2.2\FileParser.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\FileReaders\FileParser\obj\Debug\netcoreapp2.2\FileParser.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\FileReaders\FileParser\obj\Debug\netcoreapp2.2\FileParser.dll
+C:\Users\Samsung\source\repos\FileReaders\FileParser\obj\Debug\netcoreapp2.2\FileParser.pdb
